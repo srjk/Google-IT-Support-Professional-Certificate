@@ -1,0 +1,102 @@
+Q1: A technique that’s used to route traffic to different destinations, depending on factors like location, congestion, or link health, is known as _____.
+answer : anycast
+
+Q2: A concept that involves iterating over a list of items one by one in an orderly fashion is known as _______.
+answe: round robin
+
+Q3: Administration and definition of TLDs are handled by a non-profit organization known as _______.
+answer : Icann
+
+Q4: When a range of IP addresses is set aside for client devices, and one of these IPs is issued to these devices when they request one, this is known as _______ allocation.
+answer : dynamic 
+
+Q5: When NAT hides the source IP of an originating device, this is known as ________.
+answer IP masquerading
+
+Q6: At the very lowest level, what data does a computer understand?
+answer: binary numbers
+
+Q7: A video conferencing application isn't working due to a Domain Name System (DNS) port error. Which record requires modification to fix the issue?
+answer : Service record 
+
+Q8: Which of the following allows computers on a network to automatically receive address assignment information?
+answer : DHCP
+
+Q9: Network Address Translation (NAT) technology provides a major benefit for which of these network problems?
+answer: address exhaustion
+
+Q10: An IT engineer is planning a website upgrade with load balancing features. What technology is used?
+answer: Reverse proxy 
+
+Q11: What port on a name server is used for User Datagram Protocol (UDP) name request packets?
+answer : 53
+
+Q12: A new Domain Name System (DNS) server is being configured. Which record type is used to declare a new zone?
+answer : wrong(NS)
+
+Q13: Which of the following is NOT configured by a Dynamic Host Protocol (DHCP) server?
+answer:  MAC address 
+
+Q14: A Virtual Private Network (VPN) uses a particular layer from the OSI reference model to carry an encrypted payload that actually contains an entire second set of packets. Which layer is used?
+answer : transport
+
+Q15: What service acts on behalf of a client in order to access another service?
+answer: proxy server
+
+Q16: During the name resolution process, which technique is used to avoid congestion when querying a server?
+answer : wrong (lookup)
+
+Q17: TLD stands for ________
+answer : Top level Domain
+
+Q18: A _______ record is responsible for resolving an IP to a domain name.
+answer : PTR
+
+
+Q19: Which technique is used with Network Address Translation (NAT) where a source port chosen by a client is the same port used by a router?
+answer : preservation 
+
+Q20: During the name resolution process, which server does a local recursive server contact first?
+answer : Root name server
+
+Q21: A complete Fully Qualified Domain Name (FQDN) is limited to how many characters?
+answer : 255
+
+Q22: What term defines keeping the address of one computer secret from another?
+answer : Masquerading
+
+Q23: An internal system behind a firewall needs to be configured for remote access. How should Network Address Translation be configured?
+answer: port forwarding 
+
+Q24: What is the importance of using DNS
+answer:  name  resolution  
+
+
+Q25: When a client computer sends a request to a Domain Name System (DNS) server, what type of packet is sent?
+
+answer :SYN
+
+Q26: DNS stands for _________.
+answer: Domain Name System
+
+Q27: A DNS record that's used to redirect traffic from one domain name to another is known as a _______ record.
+answer: CNAME
+
+Q28: NAT stands for ______.
+
+answer: Network Address Translation
+
+Q29: VPN stands for _______
+
+answer: Virtual Private Network
+
+Q30: A company moves a popular website to a new web host. Which of the following will change as a result?
+answer : IP address
+
+Q31: Which technique is used with Network Address Translation (NAT) where a source port chosen by a client is the same port used by a router?
+answer : Masquerading
+
+Q32: IANA has primarily been responsible with assigning address blocks to five regional internet registries (RIR). A tech needs to research address blocks assigned in the United States. Which RIR should the tech contact?
+answer: LACNIC ( wrong answer)
+
+
