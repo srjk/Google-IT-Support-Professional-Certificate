@@ -1,0 +1,41 @@
+Q1: What types of backup schemes are available? Check all that apply.
+answer : Partial backup ( wrong answer ) other 3 correct !!!!
+
+Q2: What are some ways you can make your backups more space-efficient? Check all that apply.
+
+ANSWER : use Compression , use Incremental backups 
+
+Q3: What's a commonly overlooked part of a post-mortem report?
+answer what went poorly , the summary ( wrong answers)
+
+Q4 :The unthinkable happens and disaster strikes, crippling your network. You implement your disaster plan, but it doesn't go smoothly. You decide to investigate. What is a commom term in the IT community for this investigation?
+answer : Wrong ispection probe , after- outage analysis)
+
+Q5: Which is an advantages of off-site backups
+answers : Wrong (Date is more secure because of less outbound traffic)
+
+Q6 What is the standard medium for long-term archival backup data storage
+Answer ; wrong ( opticals disks )
+
+Q7 : Which type of backup only saves copies of files that have been changed or created since the last backup?
+answer : Diffrential backups
+
+Q8; Cloud services are the ideal backup option for user files. Which of these is not one of today's popular cloud storage platforms?
+answer :Rsync 
+
+Q9: You are performing a network risk assessment to develop your disaster recovery plan. Which of these are examples of preventative measures? Check all that apply.
+amswer : Alert system for outages ( wrong answer ) other 3 correct!!!!!!!!!
+
+Q10:What are some of the purposes of a post-mortem? Check all that apply.
+answer : to shame and punish mistakes ( wrong answer) other 3 correct !!!!!!!!!!!!!!
+
+Q11 : What's the optimal recommended backup storage strategy?
+answer : A combination of pn-and off-site backups
+
+Q12: What are the measures included in a disaster recovery plan
+Answer : Testing ( wrong answer ) other  3 corect !!!!!
+
+Q13: Which of these are part of the five primary elements that make up a post-mortem report? Check all that apply.
+answer : backup procedures ( wrong option ) other all correct !!!!
+
+Q14: 
