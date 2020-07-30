@@ -1,0 +1,82 @@
+Broken computers are being eco-recycled by the user. Which stage of the hardware lifecycle does this scenario belong to?
+answer: wrong(maintance,deployment, procu)
+
+The user can set their own computer hostname and username. Which stage of the hardware lifecycle does this scenario belong to?
+answer: deployment 
+
+An IT department submits a purchase order to buy a new computer from a vendor. "Purchase orders" are documents issued by buyers that indicate a purchase they want to make from a seller. Which stage of the hardware lifecycle does this scenario belong to?
+answer: procurement
+
+A script sets up user accounts and installs software for a machine. Which stage of the hardware lifecycle does this scenario belong to?
+answer:deployment
+
+An IT department uses a pre-used laptop out of their hardware inventory for a new user. Which stage of the hardware lifecycle does this scenario belong to?
+answeer: wrong (deployment)
+
+The IT department sets up a user account and software. Which stage of the hardware lifecycle does this situation belong to?
+answewr: deployment
+
+
+Which type of server hardware is the most space-efficient?
+answer: blade server
+
+
+In smaller IT "shops," whose responsibility is it to form organizational computer and network policies?
+answer: the sysadmin
+
+When a machine is having issues, an IT Support Specialist has to file an RMA, or Return Merchandise Authorization form, with the vendor of the machine. Which stage of the hardware lifecycle does this scenario belong to?
+answer: wrong( deplyment, procure)
+
+A laptop gets replaced if there's a hardware issue. Which stage of the hardware lifecycle does this scenario belong to?
+answer: maintance 
+
+Which of these are common responsibilities of systems administrators?
+answer: all of the above
+
+Which of these terms describe a facility that stores hundreds, if not thousands, of servers?
+answer: data centers
+
+
+An employee is leaving your company. Which of these steps are appropriate to take during offboarding? Check all that apply.
+answer: remove their access from IT resources.
+       wipe the machine future use
+       
+In additon to setting up services, what other tasks does a sysadmin have to keep in mind? Check all that apply.
+answer: keeping a user passwords( wrong) other 3 correct!!!!!
+
+ 
+ As a sysadmin, you will find yourself doing business with a variety of third-party vendors. Which of these are likely to be rented or bought from a vendor? Check all that apply.
+ answer: smartphone (wrong) other 3 correct !!!
+ 
+ As sysadmin, you will have to prioritize issues. Which of these issues would be a top priority?
+ answer : wrong ( a user continue crashing)
+ 
+ What is it called when you set aside a regular time to update your servers at once?
+ answer:batch update 
+ 
+ 
+ 
+ What factors are most important when planning for disaster and recovery? Check all that apply.
+ answer: regular backup
+         physical location
+         
+ Which methods are commonly used by sysadmins to organize issues? Check all that apply.
+ answer: ticking system, services monting alerts
+ 
+
+Which might have an IT infrastructure run by a single person?
+
+answer: hometown independent
+Which type of server most closely resembles a desktop computer in appearance?
+answer: wrong( dns server,rack )
+
+
+Which is not a component of a KVM switch?
+answer: printer
+
+What is a machine that uses services provided by a server called?
+answer: cilent
+
+
+Which are potential responsibilities of a sysadmin? (Check all that apply)
+answer: payroll ( wrong ) other 3 correct
