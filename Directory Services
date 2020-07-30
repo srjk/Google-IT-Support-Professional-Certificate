@@ -1,0 +1,127 @@
+question 1:  What roles does a directory server play in centralized management? Check all that apply.
+answers : 1) Centralized authentication
+          2) authorization
+          3) Accounting
+          --------------------------------------------------------------------------------------------------
+question :       In order to authenticate user accounts against AD, what must be done to the computer first?
+answer:    Join it to the domain
+
+-------------------------------------------------------------------------------------------------------------
+
+question : Which component of an LDAP entry contains the unique entry name?
+answer : Distinguished name
+
+-------------------------------------------------------------------------------
+Which is NOT an advantage of replication of data in terms of directory services?
+answers : It allows you to manage user accounts locally.
+
+-----------------------------------------------------------------------------------
+
+question :A directory service is being installed on an exclusively Windows network. Which directory service software would be appropriate to install?
+answer : Active Directory
+
+---------------------------------------------------------------------------------------------------------------------------
+
+question : A Lightweight Directory Access Protocol (LDAP) entry reads as follows: dn: CN=John Smith ,OU=Sysadmin,DC=jsmith,DC=com. What is the common name of this entry?
+answer :   wrong answers as my choice : jsmith , Sysadmin ,CN = Jhon Smith , OU = Sysadmin, Dc = jsmith ,DC= com
+
+-----------------------------------------------------------------------------------------------------
+question : Which of these statements about Active Directory (AD) are true? Check all that apply.
+answer : 1) AD can "speak" LDAP.
+         2) AD is ued as a central repository of group policy objects of GPOs.
+--------------------------------------------------------------------------------------------------------
+question: What is the difference between a group policy and a group policy preference?
+answer: Policies are reapplied every 90 minutes, and preferences are a settings template .
+
+
+--------------------------------------------------------------------------------------------
+
+question :A particular computer on your network is a member of several GPOs. GPO-A has precedence set to 1. GPO-B has precedence set to 2, and GPO-C has precedence set to 3. According to the given levels of precedence, what will be the resultant set of policy (RSOP) for this machine?
+answer: GPO-A will take precedence and overwrite any conflicting settings.
+
+----------------------------------------------------------------------------------
+question: What are the main differences between OpenLDAP and Microsoft's Active Directory (AD)? Check all that apply.
+answer: 1) OpenLDAP works on any operating system , AD does not.
+        2) OpenLDAP is open source , and AD is not.
+        
+        
+---------------------------------------------------------------------
+
+question : You're trying to remove an organizational unit(OU) that an LDAP Data Interchange Format(LDIF) file refers to .Which Command Line Interface (CLI) command would you use ?
+answer: ldapdelete
+
+--------------------------------------------------------------------------------------------
+
+question : Which of these statements are true about Domain Controllers( DCs)? check all that apply.
+answer: Delegation can be used in active Directory 
+        The default Organizational Unit (OU) called Domain Controllers contains all Domain controllers in the domain.
+        
+        
+---------------------------------------------------------------------------------------------------------------------
+question : when you log into a website that uses a directory service , what command authenticates  your username and password
+answer : BInd 
+
+--------------------------------------------------------------------------------------------------
+ question: what are examples of lightweight Directory Access Protocol (LDAP) directory server   software ? check all apply.
+ answer : 1) OpenLDAp
+          2) Microsofts Active directory
+          
+          
+ ---------------------------------------------------------------------
+queston: Directory services store information in a heirarchical structure .Which statements about Organizational Units (OUs) of a directory service hierarchy are true ? check  all apply?
+
+answer : Parent OUs inherit ( wrong answer ) other 3 correct !!!!
+
+--------------------------------------------------------------------
+question : In active Directory ,A Domain Controller Functions as which of the following ? check all apply ?
+
+answer : A container ( wrong answer ) other  3 correct !!!!!
+
+
+-------------------------------------------------------------------------------------------------------?
+
+question : which of these are common reasons a group ploicy doesn't take effect correctly ? check all that apply 
+answer :  THe GPO may be linked (  wrong answer ) other 3 correct !!!
+----------------------------------------------------------------------------
+
+question :  what are the three ways to authenticate to an LDAP server ?
+
+answer PGP ( wrong answer) other 3 correct !!!!
+
+
+
+
+-----------------------------------------------
+
+question :  apply ? 
+
+answer : private ( wrong answer ) other 3 correct!!!!!!!!!!
+
+-------------------------------------
+
+question : which of these statements are true about managing through Active Directory check all apply ?
+answer : Distribution groups can be used ( wrong answer ) ther 3 correct !!!!
+
+---------------------------------------------------------------------------
+
+question :  which of these are advantageof centralized management using  directory services ? check all that apply?
+
+answer: Configuration can take place at each place ( wrong answer) other 3 correct !!!!!!!!!!
+----------------------------------------------------------------------------------------------------
+
+question : a client discovers the address of a domain controller by making a dns query for which reord 
+answer:  SRV record 
+
+---------------------------------------------------------------------------------------------------------
+
+
+question :  what would you use if you wanted to set a default wallppaper ...................
+answer : A preference
+----------------------------------------------------
+
+
+question :  how are things organized in a directory server ?
+answer : By a hierarchical model of objects and containers.
+-----------------------------------------------------------------------------------
+
+
