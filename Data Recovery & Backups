@@ -6,16 +6,16 @@ Q2: What are some ways you can make your backups more space-efficient? Check all
 ANSWER : use Compression , use Incremental backups 
 
 Q3: What's a commonly overlooked part of a post-mortem report?
-answer what went poorly , the summary ( wrong answers)
+answer what went poorly , the summary , the timeline ( wrong answers)
 
 Q4 :The unthinkable happens and disaster strikes, crippling your network. You implement your disaster plan, but it doesn't go smoothly. You decide to investigate. What is a commom term in the IT community for this investigation?
-answer : Wrong ispection probe , after- outage analysis)
+answer : Post-mortem
 
 Q5: Which is an advantages of off-site backups
 answers : Wrong (Date is more secure because of less outbound traffic)
 
 Q6 What is the standard medium for long-term archival backup data storage
-Answer ; wrong ( opticals disks )
+Answer : Magnetic tapes
 
 Q7 : Which type of backup only saves copies of files that have been changed or created since the last backup?
 answer : Diffrential backups
@@ -38,4 +38,37 @@ Answer : Testing ( wrong answer ) other  3 corect !!!!!
 Q13: Which of these are part of the five primary elements that make up a post-mortem report? Check all that apply.
 answer : backup procedures ( wrong option ) other all correct !!!!
 
-Q14: 
+Q14: What are advantages of on-site backups? Check all that apply.
+answer : data is safe in case of disaster ( wrong answer ) other 3 correct !!!
+
+Q15:What are good reasons to do yearly disaster recovery testing? Check all that apply.
+answer : to create downtime ( wrong answer ) other 3 correct !!!
+
+Q16: A disaster recovery plan is a collection of documented procedures and plans on how to react and handle an emergency or disaster scenario from an operational perspective. What are important elements of a disaster recovery plan? Check all that apply.
+answer : Dicipline measures ( wrong answer) other 3 correct !!!!
+
+Q17 : What is the single most important part of data recovery
+answer : Effectively backing up data
+
+Q18: When planning a backup strategy, ideally one needs to prioritize important data and only back up what is absolutely necessary for operations. Assuming storage limitations, which of these is LEAST important to back up?
+answer : user downloads
+
+Q19 : Budget constraints aside, what is the ideal backup solution?
+answer : off site wrong 
+
+Q20 :Which backup method saves copies of all important files and data at each backup
+answer wrong Incremental backup
+
+Q21 :You are performing a network risk assessment to develop your disaster recovery plan. Which of these are examples of detection measures? Check all that apply.
+answer : Conducting regular ( wrong ) other 3 correct !!!!
+
+Q22 :Which of these are components of a post-mortem report? Check all that apply.
+answer log data ( wrong ) other 3 correct 
+
+Q23 :What options are available for storing backups, physically
+answer : Both on-site and off-site 
+
+Q24 : You are performing a network risk assessment to develop your disaster recovery plan. Which of these are examples of corrective or recovery measures? Check all that apply.
+answer : Redundancy solutions ( wrong answer ) other 3 correct !!!!!!11
+
+
