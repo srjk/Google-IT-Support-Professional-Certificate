@@ -1,0 +1,117 @@
+What tool can you use to discover vulnerabilities or dangerous misconfigurations on your systems and network?
+answer : vulnerability scanner 
+
+Which of the following should be incorporated into a reasonably secure password policy that balances security with usability? Check all that apply.
+answer ; wrong (A requrement) other 3 correct
+
+What are the first two steps of incident handling and response? Check all that apply.
+answer: incident detection, incident containment
+
+Beyond restoring normal operations and data, what else should be done during the recovery phase?
+correct the underlying root cause 
+
+Security risk assessment starts with _____.
+answer wrong : attack impact
+
+Which of these are examples of security tools that can scan computer systems and networks for vulnerabilities? Check all that apply.
+
+answer: wrong (wireshark) other 3 correct !!!
+
+Which of these are bad security habits commonly seen amongst employees in the workplace? Check all that apply.
+answer: Leaving a laptop logged in and unattended 
+          passwords on a post-it is note.
+       
+       
+When considering third-party service providers to host sensitive data, you should conduct a vendor risk review. What actions does this include? Check all that apply.
+answer: Test the vendor's software or hardware
+         ask vendor to fill out a security questionnaire
+         
+Google provides free _____, which is a good starting point when assessing third-party vendors.
+
+answer : wrong ( cloud)
+
+When you are working on your laptop in a public area, always _____ when you get up to use the restroom.
+answer : look your screen
+
+Once the scope of the incident is determined, the next step would be _____.
+answer: containment
+
+A strong password is a good step towards good security, but what else is recommended to secure authentication?
+answer: Two-factor authentication
+
+When handling credit card payments, your organization needs to adhere to the _____.
+answer: PCI DSS)
+
+A company wants to restrict access to sensitive data. Only those who have a "need to know" will have access to this data. Strong access controls need to be implemented. Which of these examples, that don't include user identification, are used for 2-factor authentication? Check all that apply.
+answer: U2F token , password 
+
+_____ is the practice of attempting to break into a system or network for the purpose of verification of systems in place.
+answer: Penetration testing
+
+When employees need to access sensitive data, they should do all of the following EXCEPT what?
+answer: a second signature
+
+
+Third-party services that require equipment on-site may require your company to do which of the following? Check all that apply.
+answer : all 4 correct 
+
+The very first step of handling an incident is _____ the incident.
+answer: detecting 
+
+The incident response team found malware on several user workstations. Trying to remove the malware infection is becoming time consuming. There is important data on the workstations. Which of these actions will recover the workstations back to a malware-free state? Check all that apply.
+answer: rebuilding the machine
+        restored file from  backup
+        
+What characteristics are used to assess the severity of found vulnerabilities? Check all that apply.
+answer: use of encryption or not ( wrong answer) other 3 correct!!!
+
+
+
+
+How can events be reconstructed after an incident?
+answer: By reviewing and anaylse log
+
+A co-worker needs to share a sensitive file with you, but it is too large to send via an encrypted email. The co-worker works out of a remote office. You work at headquarters. Which of these options would most likely be approved by the company’s security policies? Check all that apply.
+answer : upload to company secure cloud storage
+         share directly via VPN
+ 
+Management wants to build a culture where employees keep security in mind. Employees should be able to access information freely and provide feedback or suggestions without worry. Which of these are great ideas for this type of culture? Check all that apply.
+answer: Designated maling list 
+        Posters promoting good security behaviors.
+        
+After a known good backup has been restored and the known vulnerabilities have been closed, systems should be thoroughly _____.
+answer : tested 
+
+What's the first step in performing a security risk assessment?
+answer : log anaylsis( wrong)
+
+What are some behaviors you should encourage in order to build a security-conscious culture? Check all that apply.
+
+answer: shaming people who haven't ( wrong ) other 3 correct !!!!
+
+
+In the Payment Card Industry Data Security Standard (PCI DSS), which of these goals would benefit from encrypted data transmission?
+answer: protecting cardholder data
+
+Your company wants to establish good privacy practices in the workplace so that employee and customer data is properly protected. Well-established and defined privacy policies are in place, but they also need to be enforced. What are some ways to enforce these privacy policies? Check all that apply.
+answer:  lease privilege, Audit access logs
+
+Data handling policies usually forbid the storing of confidential information on which of these devices? Check all that apply.
+answer: USB sticks , CD drives
+
+
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+
