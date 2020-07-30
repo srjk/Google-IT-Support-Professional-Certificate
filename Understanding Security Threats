@@ -1,0 +1,115 @@
+Which of the following are examples of injection attacks? Check all that apply.
+answer : 1) XSS attack
+         2) SQL injection attack
+         
+        
+        
+        
+When cleaning up a system after a compromise, you should look closely for any ______ that may have been installed by the attacker.
+answer: Rouge APs
+
+An attack that would allow someone to intercept your data as it's being sent or received 
+
+answer: man-in-the-middle attack
+
+The best defense against injection attacks is to ______.
+answer : wrong( Use antimalware software )
+
+Which of these is an example of the integrity principle that can ensure your data is accurate and untampered with?
+answer: using Encapsulating Security Payload , MAC
+
+If there are cyber threats and vulnerabilities to your system, what does that expose you to? Check all that apply.
+answer: exploits
+        attacks
+        
+Which of these is true of blackhat and whitehat hackers?
+answer: Blackhats and Whitehats should not be trusted  
+
+If a hacker can steal your passwords by installing malware that captures all the messages you type, what kind of malware did the hacker install? Check all that apply.
+answer spyware , a keylogger
+
+An unhappy Systems Administrator wrote a malware program to bring down the company's services after a certain event occurred. What type of malware does this describe?
+answer: wrong (spyware, rootkit,renoswear)
+
+Which of these is where a victim connects to a network that the victim thinks is legitimate, but is really an identical network controlled by a hacker to monitor traffic?
+answer: wrong (Dos,a logic bomb)
+
+What type of attack can a hacker perform that involves injecting malicious code into a website to hijack a session cookie?
+answer: wrong( SQL injection)
+
+If a hacker targets a vulnerable website by running commands that delete the website's data in its database, what type of attack did the hacker perform?
+answer : ql injection 
+
+An end-user received an email stating his bank account was compromised, and that he needs to click a link to reset his password. When the user visited the site, he recognized it as legitimate and entered his credentials which were captured by a hacker. What type of social engineering attack does this describe?
+answer : A phishing attack
+
+A network-based attack where one attacking machine overwhelms a target with traffic is a(n) _______ attack.
+answer: denial-of-service attack
+
+Botnets are designed to steal _____ from the victim.
+answer: computing resources
+
+The best defense against password attacks is using strong _______.
+answer: passwords 
+
+The practice of tricking someone into providing information they shouldn't is called ________.
+answer: Social engineering
+
+What's the difference between a virus and a worm?
+answer: wrong( Worms replicate through files, but viruses live)
+
+What can occur during a ping of death (POD) attack? Check all that apply.
+answer : Baiting( wrong ) other 3 correct!!!!
+
+What is it called if a hacker takes down multiple services very quickly with the help of botnets?
+answer: wrong (XSS)
+
+How can you increase the strength of your passwords? Check all that apply.
+answer: use Password from a precompiled list ( wrong) other 3 correct !!!!
+
+An attacker, acting as a postal worker, used social engineering tactics to trick an employee into thinking she was legitimately delivering packages. The attacker was then able to gain physical access to a restricted area by following behind the employee into the building. What type of attack did the attacker perform? Check all that apply.
+answer: Social engineering
+        tailgating
+ 
+Phishing, baiting, and tailgating are examples of ________ attacks.
+answer: Social engineering
+
+An attacker could redirect your browser to a fake website login page using what kind of attack?
+answer : wrong ( injection attack, syn food attack )
+
+Which of these is an example of the confidentiality principle that can help keep your data hidden from unwanted eyes?
+answer : wrong(Preventing data loss, making sure the data hasn't been )
+
+Which of these is true of vulnerabilities? Check all that apply
+answer: An exploit  takes advantage of bugs and vulnerabilities.
+        a vulnerabilitie is a flaw  in the code of an application that can be exploited
+        
+A hacker infected your computer to steal your Internet connection and used your machine's resources to mine Bitcoin. What is the name of this kind of attack?
+answer wrong(spyware, ranswore )
+
+How can injection attacks be prevented? Check all that apply.
+answer:  input validating
+         data sanitizing 
+ 
+ 
+  
+A(n) _____ attack is meant to prevent legitimate traffic from reaching a service.
+answer: DDos 
+
+
+Which of these are ways a hacker can establish a man-in-the-middle attack? Check all that apply.
+anser : ap , Evil Twin
+
+Which of these sends tons of packets to a system in order to crash it or prevents services from being available? Check all that apply.
+answer syn food 
+        ping flood
+
+
+
+
+ 
+
+
+
+
+
