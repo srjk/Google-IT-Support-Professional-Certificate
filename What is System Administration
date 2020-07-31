@@ -1,6 +1,13 @@
 Broken computers are being eco-recycled by the user. Which stage of the hardware lifecycle does this scenario belong to?
 answer: wrong(maintance,deployment, procu)
 
+
+A company has a "bring your own device" (BYOD) policy for computers; anyone can just go out and buy whatever computer they want. Which stage of the hardware lifecycle does this scenario belong to?
+answer : procrement 
+
+A machine is having issues, so the user is responsible for getting the machine serviced. Which stage of the hardware lifecycle does this scenario belong to?
+answer: maintance 
+
 The user can set their own computer hostname and username. Which stage of the hardware lifecycle does this scenario belong to?
 answer: deployment 
 
@@ -13,12 +20,18 @@ answer:deployment
 An IT department uses a pre-used laptop out of their hardware inventory for a new user. Which stage of the hardware lifecycle does this scenario belong to?
 answeer: wrong (deployment)
 
+A laptop gets recycled by an e-waste recycling company once it can't be used anymore. Which stage of the hardware lifecycle does this scenario belong to?
+answer: retirement
+
 The IT department sets up a user account and software. Which stage of the hardware lifecycle does this situation belong to?
 answewr: deployment
 
 
 Which type of server hardware is the most space-efficient?
 answer: blade server
+
+What are some disadvantages of cloud computing? Check all that apply.
+answer: it could potentailly cost you more , you become dependent on the cloud provider
 
 
 In smaller IT "shops," whose responsibility is it to form organizational computer and network policies?
@@ -49,12 +62,14 @@ answer: keeping a user passwords( wrong) other 3 correct!!!!!
  answer: smartphone (wrong) other 3 correct !!!
  
  As sysadmin, you will have to prioritize issues. Which of these issues would be a top priority?
- answer : wrong ( a user continue crashing)
+ answer : A server stopped providing services to 100 user
  
  What is it called when you set aside a regular time to update your servers at once?
  answer:batch update 
  
  
+ Which of these are likely considerations for developing a computer policy? Check all that apply.
+ answer : whether or not users should shair their password ( wrong ) other 3 correct !!!!
  
  What factors are most important when planning for disaster and recovery? Check all that apply.
  answer: regular backup
@@ -68,8 +83,7 @@ Which might have an IT infrastructure run by a single person?
 
 answer: hometown independent
 Which type of server most closely resembles a desktop computer in appearance?
-answer: wrong( dns server,rack )
-
+answer: tower server
 
 Which is not a component of a KVM switch?
 answer: printer
@@ -80,3 +94,12 @@ answer: cilent
 
 Which are potential responsibilities of a sysadmin? (Check all that apply)
 answer: payroll ( wrong ) other 3 correct
+
+What are some important elements of working with vendors as a sysadmin? Check all that apply.
+answer: independentally approve vendor relationships without management permission ( wrong) other 3 correct
+
+Who works in the background to make sure a company’s IT infrastructure is always working, and is constantly fighting to prevent IT disasters from happening?
+answer: the system administrator ( or sysadmin)
+
+What is NOT one of the main stages of the hardware lifecycle?
+answer: recycling 
