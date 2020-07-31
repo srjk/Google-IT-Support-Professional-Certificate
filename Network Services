@@ -1,0 +1,25 @@
+Q1:Let's say that you handle the IT systems administration for your company. There's a server inside of your organization that checks how often client machines access it. If a client machine hasn't accessed the server in three months, the server won't allow the client machine to access its resources anymore. What can you set to make sure that your client machines and the server times are in sync?
+answer: NTP
+
+Q2:Which of the following options allow you to access a computer remotely? Check all that apply.
+answer: SSH,VPN
+
+Q3: You're the sole IT employee at your company, and you don't know how many users or computers are in your organization. Uh oh! What can you use to easily manage the users in your company?
+answer: wrong(Network services)
+
+Q4: Which are advantages of using a server operating system?
+answer: wrong(Simplified user interface)
+
+Q5: A network service developer is looking to install the most secure file transfer protocol. Which protocol would best fit this criteria?
+answer: SFTP
+
+Q6: A website is inaccesible via its URL. You've pinged the site and see no problem there. What is the next troubleshooting step?
+answer: use nslookup in the terminal 
+
+Q7: You want to access the CLI (command line interface) of a Linux terminal at work from your Apple laptop at home. You have the proper client installed on your laptop. What needs to be installed on the remote Linux machine?
+answer: OpenSsh
+
+Q8: if we want to access files located in a directory on a remote server, which of these options would we use?
+answer: FTP client
+
+
