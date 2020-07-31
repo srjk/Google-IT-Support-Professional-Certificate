@@ -6,7 +6,7 @@ answer : 1) XSS attack
         
         
 When cleaning up a system after a compromise, you should look closely for any ______ that may have been installed by the attacker.
-answer: Rouge APs
+answer: wrong(Rouge APs)
 
 An attack that would allow someone to intercept your data as it's being sent or received 
 
@@ -35,7 +35,7 @@ Which of these is where a victim connects to a network that the victim thinks is
 answer: wrong (Dos,a logic bomb)
 
 What type of attack can a hacker perform that involves injecting malicious code into a website to hijack a session cookie?
-answer: wrong( SQL injection)
+answer: XSS (Cross-site Scripting) 
 
 If a hacker targets a vulnerable website by running commands that delete the website's data in its database, what type of attack did the hacker perform?
 answer : ql injection 
@@ -62,7 +62,7 @@ What can occur during a ping of death (POD) attack? Check all that apply.
 answer : Baiting( wrong ) other 3 correct!!!!
 
 What is it called if a hacker takes down multiple services very quickly with the help of botnets?
-answer: wrong (XSS)
+answer: wrong (XSS, a sql injection)
 
 How can you increase the strength of your passwords? Check all that apply.
 answer: use Password from a precompiled list ( wrong) other 3 correct !!!!
@@ -75,10 +75,10 @@ Phishing, baiting, and tailgating are examples of ________ attacks.
 answer: Social engineering
 
 An attacker could redirect your browser to a fake website login page using what kind of attack?
-answer : wrong ( injection attack, syn food attack )
+answer : DNS cache poisoning attack
 
 Which of these is an example of the confidentiality principle that can help keep your data hidden from unwanted eyes?
-answer : wrong(Preventing data loss, making sure the data hasn't been )
+answer :  protecting online accounts with Password protection 
 
 Which of these is true of vulnerabilities? Check all that apply
 answer: An exploit  takes advantage of bugs and vulnerabilities.
@@ -104,7 +104,18 @@ Which of these sends tons of packets to a system in order to crash it or prevent
 answer syn food 
         ping flood
 
+Which of these is a characteristic of Trojan malware?
+answwer: needs to be installed by user
 
+
+Which of these is a way to help prevent brute-force attacks? Check all that apply.
+answer: captcha,  strong passwords 
+
+What could potentially decrease the availability of security and also test the preparedness of data loss?
+answer: ranosmwore 
+
+You receive a legitimate-looking email from a sender that you recognize asking you to click a funny link. But, once you do, malware installs on your computer. What is most likely the reason you got infected?
+answer: wrong( paswored was craked)
 
 
  
