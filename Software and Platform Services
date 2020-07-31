@@ -1,0 +1,50 @@
+Q: Let's say that you're the sole IT employee at your company. Your boss wants the company to migrate away from using the current, paid-for chat application and use something free, insead. What options could you use? Check all that apply.
+answer: wrong( email ) other 3 correct !!!
+
+Q:You want to be super private with your email. You'd like to be able to download your email to a single device, then remove it from your email server. What email protocol can you use to do that?
+answer: POP3
+
+Q:If you're browsing a website, what's a quick way to know that it's secure?
+answer: The URL begins with HTTPS
+
+Q:Apache is an example of what type of software?
+answer: web(HTTP) server software 
+
+Q:What type of DNS record is used for email servers?
+answer: wrong( AAAA,A)
+
+Q:Which of these is NOT an email protocol?
+answer: IRC
+
+Q:Which file system protocols are intended for network use? Check all that apply.
+answer: SMB,NFS
+
+Q:Company B is setting up commercial printing services on their network. Which of these are advantages of centrally managed commercial printers? Check all that apply.
+answer: printers can be manager at a time ( wrong ) other 3 coreect !!!!
+
+Q:An employee sets up Apache HTTP Server. He types 127.0.0.1 in the browser to check that the content is there. What is the next step in the setup process?
+answer: set up DNS so the SERVER can be accessed trough out the internet.
+
+Q:Which of these are examples of database software? Check all that apply.
+answer: PostgreSql ,MySql
+
+Q:Company A is setting up a network of mostly Windows machines. Which networking file system protocol would you recommend for maximum interoperability?
+answer: SMB using Samba
+
+Q:You're the sole IT employee at your company. Most of the computers in your fleet are Windows machines. Your boss wants you to set up a network file storage. What file service should you use?
+answer: samba server
+
+Q: Which email protocol is capable of sending emails?
+answer: smtp 
+
+Q: HTTPS is the secure version of HTTP. Which statements are true about HTTPS and security protocols? Check all that apply.
+answer: ssl is more secure then tls ( wrong) other 3 correct !!!!
+
+Q: Which of these is a valid method of managing printer services in a commercial environment?
+answer: managing  multipal  printer separetly 
+
+Q: Where does customer information, such as news articles, videos, large amounts of text, images, or audio files, generally get stored for web services?
+answer: on a databse
+
+Q:What is the main function of a database system?
+answer: Databse allow us to store ,filer and manager larger amount of data  
