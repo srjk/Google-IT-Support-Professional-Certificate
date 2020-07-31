@@ -1,20 +1,58 @@
 Q1:Let's say that you handle the IT systems administration for your company. There's a server inside of your organization that checks how often client machines access it. If a client machine hasn't accessed the server in three months, the server won't allow the client machine to access its resources anymore. What can you set to make sure that your client machines and the server times are in sync?
 answer: NTP
 
+Q:Let's say that you're the sole IT person at your company. The company is a very small startup, and they need to set up a few non-critical services and have a single physical server in place. What's the best approach to fully utilize this server?
+answer: set up Virtualize server on the server
+
+Q:Which of the benefits below make using an Infrastructure as a Service (IaaS) provider a better option than purchasing dedicated physical hardware? Check all that apply.
+answer: Having complete control over your pyhsical infrastructure( wrong ) other 3 correct !!!! 
+
 Q2:Which of the following options allow you to access a computer remotely? Check all that apply.
 answer: SSH,VPN
+
+Q:Let's say that you're the sole IT person in your company, and your boss wants a way to block certain websites from employees. What can you set up to help with this request?
+answer: Proxy server
+
+Q: When you make a DNS query, where does your computer first check to find an IP address to name mapping?
+answer: on your local machine
+
 
 Q3: You're the sole IT employee at your company, and you don't know how many users or computers are in your organization. Uh oh! What can you use to easily manage the users in your company?
 answer: wrong(Network services)
 
+Q:Goggle Gsuite i an example of which cloud service?
+answer: SAAS
+
+Q:What are the advantages of using Infrastructure as a Service (or IaaS) solutions? Check all that apply.
+answer: you can keep all your files on local machine ( wrong )  other 3 correct!!!!
+
+
 Q4: Which are advantages of using a server operating system?
 answer: wrong(Simplified user interface)
+
+Q:Using virtualization comes with many advantages, one of them being performance. Which of these is NOT another realistic advantage of using virtualization over dedicated hardware?
+answer: wrong( there are fewer point of failure)
 
 Q5: A network service developer is looking to install the most secure file transfer protocol. Which protocol would best fit this criteria?
 answer: SFTP
 
+Q: A network technician sets up an internal DNS server for his local network . when he types in a url , which is checked first ?
+answer: Local host file
+
+Q:What is the main advantage of using DHCP?
+answer: leases ip addresses, removing the manually assign ip addresses
+
+
 Q6: A website is inaccesible via its URL. You've pinged the site and see no problem there. What is the next troubleshooting step?
 answer: use nslookup in the terminal 
+
+Q:What does PXE Boot stand for?
+answer: Pre Boot Execution
+
+Q:An app developer is shopping for a cloud service that will allow him to build code, store information in a database and serve his application from a single place. What type of cloud service is he looking for?
+answer: 
+
+
 
 Q7: You want to access the CLI (command line interface) of a Linux terminal at work from your Apple laptop at home. You have the proper client installed on your laptop. What needs to be installed on the remote Linux machine?
 answer: OpenSsh
